@@ -78,5 +78,11 @@ The analysis focuses on:
 This project demonstrates an end-to-end data analytics workflow, from data preparation and SQL analysis to dashboard development and business reporting. It showcases practical skills in Python, PostgreSQL, Power BI, data visualization, and analytical problem-solving.
 
 
+##Credits
+
+This project was developed as part of my Data Analytics learning journey, with guidance from a YouTube tutorial. I used the project to practise Python, SQL, PostgreSQL, Power BI, and data analysis techniques.
+
+I am continuing to strengthen my understanding of the concepts and improve my ability to perform data analysis independently.
+
 
 
